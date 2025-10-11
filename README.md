@@ -1,6 +1,6 @@
 # An EchoLab Machine Learning Quest
 
-> Name: Iván Higuera-Mendieta (`ihigueme`)
+> Name: Eyrin Kim (`eyrinkim`)
 
 ## Question 1: We live in the terminal
 
